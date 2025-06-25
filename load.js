@@ -1,0 +1,32 @@
+const boardimg = new Image();
+boardimg.src = 'images/board.png';
+const numbersimg = new Image();
+numbersimg.src = 'images/numbers.png';
+const textimg = new Image();
+textimg.src = 'images/text.png';
+
+const whitepawn = new Image();
+whitepawn.src = 'images/white_pawn.png';
+const whiterook = new Image();
+whiterook.src = 'images/white_rook.png';
+const whiteknight = new Image();
+whiteknight.src = 'images/white_knight.png';
+const whitebishop = new Image();
+whitebishop.src = 'images/white_bishop.png';
+const whiteking = new Image();
+whiteking.src = 'images/white_king.png';
+const whitequeen = new Image();
+whitequeen.src = 'images/white_queen.png';
+
+const blackpawn = new Image();
+blackpawn.src = 'images/black_pawn.png';
+const blackrook = new Image();
+blackrook.src = 'images/black_rook.png';
+const blackknight = new Image();
+blackknight.src = 'images/black_knight.png';
+const blackbishop = new Image();
+blackbishop.src = 'images/black_bishop.png';
+const blackking = new Image();
+blackking.src = 'images/black_king.png';
+const blackqueen = new Image();
+blackqueen.src = 'images/black_queen.png';
